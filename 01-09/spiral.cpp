@@ -21,13 +21,13 @@ for(int j=top;j<=bottom;j++){
 	cout<<arr[j][right]<<", ";
 }
 right--;
-// if(left<=right){
+// if(top<=bottom){
 // 	for(int i=right;i<=left;i--){
 // 		cout<<arr[bottom][i]<<", ";
 // 	}
 // 	bottom--;
 // }
-// if(top<bottom){
+// if(left<=rigth){
 // 	for(int j=bottom;j<=top;j--){
 // 		cout<<arr[j][left]<<", ";
 // 	}
